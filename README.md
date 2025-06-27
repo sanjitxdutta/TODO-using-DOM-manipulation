@@ -32,16 +32,16 @@ This project is perfect for beginners learning:
    ```bash
    git clone https://github.com/your-username/todo-dom-app.git
    cd todo-dom-app
+   index.html
 
 
 ## 📁 Project Structure
 
 /TODO-using-DOM-manipulation/
-│
-├── index.html # Main HTML file
-├── todo.css # Styles (orange + green themes)
-├── todo.js # Interactive logic
-└── README.md # This file
+├── index.html    # Main HTML file
+├── todo.css      # Styles (orange + green themes)
+├── todo.js       # Interactive logic (pure DOM manipulation)
+└── README.md     # Project documentation
 
 ---
 
@@ -55,7 +55,7 @@ cd todo-app
 
 ---
 
-![image](https://github.com/user-attachments/assets/9fded0a0-e09c-417a-a042-846c4c4229dd)
-![image](https://github.com/user-attachments/assets/7b831c2a-a464-4bc6-aec3-f1fab35ce263)
-![image](https://github.com/user-attachments/assets/2ec5e233-a1e1-405f-96c9-c4f933c73475)
+<img src="https://github.com/user-attachments/assets/9fded0a0-e09c-417a-a042-846c4c4229dd" width="600" />
+<img src="https://github.com/user-attachments/assets/7b831c2a-a464-4bc6-aec3-f1fab35ce263" width="600" />
+<img src="https://github.com/user-attachments/assets/2ec5e233-a1e1-405f-96c9-c4f933c73475" width="600" />f933c73475)
 
