@@ -33,15 +33,5 @@ This project is perfect for beginners learning:
    git clone https://github.com/your-username/todo-dom-app.git
    cd todo-dom-app
    index.html
-
-
-## 📁 Project Structure
-
-/TODO-using-DOM-manipulation/
-├── index.html    # Main HTML file
-├── todo.css      # Styles (orange + green themes)
-├── todo.js       # Interactive logic (pure DOM manipulation)
-└── README.md     # Project documentation
-
+   
 ---
-
