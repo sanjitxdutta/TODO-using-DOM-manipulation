@@ -45,17 +45,3 @@ This project is perfect for beginners learning:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
-
----
-
-<img src="https://github.com/user-attachments/assets/9fded0a0-e09c-417a-a042-846c4c4229dd" width="600" />
-<img src="https://github.com/user-attachments/assets/7b831c2a-a464-4bc6-aec3-f1fab35ce263" width="600" />
-<img src="https://github.com/user-attachments/assets/2ec5e233-a1e1-405f-96c9-c4f933c73475" width="600" />f933c73475)
-
