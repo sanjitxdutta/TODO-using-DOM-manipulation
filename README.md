@@ -30,7 +30,7 @@ This project is perfect for beginners learning:
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/todo-dom-app.git
+   git clone https://github.com/sanjitxdutta/todo-dom-app.git
    cd todo-dom-app
    index.html
    
